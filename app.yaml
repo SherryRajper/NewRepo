@@ -7,7 +7,7 @@ handlers:
   script: main.app
 
 env_variables:
-    CLOUDSQL_CONNECTION_NAME: pythonmysqlapp:northamerica-northeast1:user
+    CLOUDSQL_CONNECTION_NAME: cloudypower101:northamerica-northeast1:user
     CLOUDSQL_USER: root
     CLOUDSQL_PASSWORD: sup3rs0nic
 
